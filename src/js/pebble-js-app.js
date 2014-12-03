@@ -8,8 +8,9 @@ var xhrRequest = function (url, type, callback) {
 };
 
 function locationSuccess(pos) {
-  // Construct URL
-  var url = "http://REMOVED BECOUSE OF REASONS!";
+  
+  // Construct URL to JSON onpage
+  var url = "URL TO JSON ON WEB";
       console.log("URL USED IS: " + url);
 
   // Send request to LanoPage

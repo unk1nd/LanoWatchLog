@@ -12,6 +12,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/lanoMenulogo.png",
+                "menuIcon": true,
+                "name": "menu",
+                "type": "png"
+            },
+            {
                 "file": "images/background.png",
                 "name": "IMAGE_BACKGROUND",
                 "type": "png"
